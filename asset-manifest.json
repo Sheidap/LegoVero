@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LegoVero/static/css/main.cf7db0c3.css",
+    "main.js": "/LegoVero/static/js/main.bf87e241.js",
+    "index.html": "/LegoVero/index.html",
+    "main.cf7db0c3.css.map": "/LegoVero/static/css/main.cf7db0c3.css.map",
+    "main.bf87e241.js.map": "/LegoVero/static/js/main.bf87e241.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf7db0c3.css",
+    "static/js/main.bf87e241.js"
+  ]
+}
