@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/LegoVero/static/css/main.cf7db0c3.css",
-    "main.js": "/LegoVero/static/js/main.92b6ef40.js",
+    "main.js": "/LegoVero/static/js/main.6e72746e.js",
     "index.html": "/LegoVero/index.html",
     "main.cf7db0c3.css.map": "/LegoVero/static/css/main.cf7db0c3.css.map",
-    "main.92b6ef40.js.map": "/LegoVero/static/js/main.92b6ef40.js.map"
+    "main.6e72746e.js.map": "/LegoVero/static/js/main.6e72746e.js.map"
   },
   "entrypoints": [
     "static/css/main.cf7db0c3.css",
-    "static/js/main.92b6ef40.js"
+    "static/js/main.6e72746e.js"
   ]
 }
